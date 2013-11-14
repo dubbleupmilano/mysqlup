@@ -1,0 +1,1170 @@
+2013-11-14 16:01:51;/test/tools/sync_db/?;127.0.0.1
+SHOW TABLES
+--------------------
+2013-11-14 16:01:51;/test/tools/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM authassignment
+--------------------
+2013-11-14 16:01:51;/test/tools/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM authassignment
+--------------------
+2013-11-14 16:01:51;/test/tools/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond.20120721` where Name = 'authassignment'
+--------------------
+2013-11-14 16:01:51;/test/tools/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM authitem
+--------------------
+2013-11-14 16:01:51;/test/tools/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM authitem
+--------------------
+2013-11-14 16:01:51;/test/tools/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond.20120721` where Name = 'authitem'
+--------------------
+2013-11-14 16:01:51;/test/tools/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM authitemchild
+--------------------
+2013-11-14 16:01:51;/test/tools/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM authitemchild
+--------------------
+2013-11-14 16:01:51;/test/tools/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond.20120721` where Name = 'authitemchild'
+--------------------
+2013-11-14 16:01:51;/test/tools/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM press_review_document
+--------------------
+2013-11-14 16:01:51;/test/tools/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM press_review_document
+--------------------
+2013-11-14 16:01:51;/test/tools/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond.20120721` where Name = 'press_review_document'
+--------------------
+2013-11-14 16:01:51;/test/tools/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM press_review_source
+--------------------
+2013-11-14 16:01:51;/test/tools/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM press_review_source
+--------------------
+2013-11-14 16:01:51;/test/tools/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond.20120721` where Name = 'press_review_source'
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM press_review_tag
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM press_review_tag
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond.20120721` where Name = 'press_review_tag'
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM tbl_user
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM tbl_user
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond.20120721` where Name = 'tbl_user'
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW TABLES
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM authassignment
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM authassignment
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond.20120807` where Name = 'authassignment'
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM authitem
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM authitem
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond.20120807` where Name = 'authitem'
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM authitemchild
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM authitemchild
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond.20120807` where Name = 'authitemchild'
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM press_review_document
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM press_review_document
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond.20120807` where Name = 'press_review_document'
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM press_review_document_tag
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM press_review_document_tag
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond.20120807` where Name = 'press_review_document_tag'
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM press_review_source
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM press_review_source
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond.20120807` where Name = 'press_review_source'
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM press_review_tag
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM press_review_tag
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond.20120807` where Name = 'press_review_tag'
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM tbl_user
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM tbl_user
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond.20120807` where Name = 'tbl_user'
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM tmp_table
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM tmp_table
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond.20120807` where Name = 'tmp_table'
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW CREATE TABLE press_review_document_tag
+--------------------
+2013-11-14 16:01:52;/test/tools/sync_db/?;127.0.0.1
+SHOW CREATE TABLE tmp_table
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLES
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM address
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM address
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'address'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM address_client
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM address_client
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'address_client'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM address_contact
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM address_contact
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'address_contact'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM authassignment
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM authassignment
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'authassignment'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM authitem
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM authitem
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'authitem'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM authitemchild
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM authitemchild
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'authitemchild'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM istat_comuni
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM istat_comuni
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'istat_comuni'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM istat_province
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM istat_province
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'istat_province'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM istat_regioni
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM istat_regioni
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'istat_regioni'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_agent_contact
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_agent_contact
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_agent_contact'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_agent_customer
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_agent_customer
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_agent_customer'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_canali
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_canali
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_canali'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_cliente_settore_old
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_cliente_settore_old
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_cliente_settore_old'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_clienti
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_clienti
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_clienti'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_clienti_macroaree
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_clienti_macroaree
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_clienti_macroaree'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_clienti_settori
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_clienti_settori
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_clienti_settori'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_contact_list
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_contact_list
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_contact_list'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_contact_ruolo
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_contact_ruolo
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_contact_ruolo'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_contact_tifoseria
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_contact_tifoseria
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_contact_tifoseria'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_contacts
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_contacts
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_contacts'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_dipendenti
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_dipendenti
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_dipendenti'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_dipendenti_type
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_dipendenti_type
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_dipendenti_type'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_eta
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_eta
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_eta'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_event
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_event
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_event'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_event_agent
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_event_agent
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_event_agent'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_group
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_group
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_group'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_hierarchy
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_hierarchy
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_hierarchy'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_invitee
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_invitee
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_invitee'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_invitee_custom
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_invitee_custom
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_invitee_custom'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_lists
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_lists
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_lists'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_meccanica_macroarea
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_meccanica_macroarea
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_meccanica_macroarea'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_meccaniche
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_meccaniche
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_meccaniche'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_model_log
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_model_log
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_model_log'
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_prodotti
+--------------------
+2013-11-14 16:06:08;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_prodotti
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_prodotti'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_ruoli
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_ruoli
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_ruoli'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_sesso
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_sesso
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_sesso'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_settori
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_settori
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_settori'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_siti
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_siti
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_siti'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_siti_macroarea
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_siti_macroarea
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_siti_macroarea'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_user_dipendente
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_user_dipendente
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_user_dipendente'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_user_group
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_user_group
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_user_group'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM notification
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM notification
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'notification'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM press_review_document
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM press_review_document
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'press_review_document'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM press_review_document_tag
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM press_review_document_tag
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'press_review_document_tag'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM press_review_source
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM press_review_source
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'press_review_source'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM press_review_tag
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM press_review_tag
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'press_review_tag'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM ps_file
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM ps_file
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'ps_file'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM ps_file_type
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM ps_file_type
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'ps_file_type'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM ps_progetti
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM ps_progetti
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'ps_progetti'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM ps_progetto_canale
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM ps_progetto_canale
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'ps_progetto_canale'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM ps_progetto_eta
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM ps_progetto_eta
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'ps_progetto_eta'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM ps_progetto_meccanica
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM ps_progetto_meccanica
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'ps_progetto_meccanica'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM ps_progetto_sesso
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM ps_progetto_sesso
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'ps_progetto_sesso'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM ps_progetto_sito
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM ps_progetto_sito
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'ps_progetto_sito'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM site_log
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM site_log
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'site_log'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM tbl_user
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM tbl_user
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'tbl_user'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLES
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM address
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM address
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'address'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM address_client
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM address_client
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'address_client'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM address_contact
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM address_contact
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'address_contact'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM authassignment
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM authassignment
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'authassignment'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM authitem
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM authitem
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'authitem'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM authitemchild
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM authitemchild
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'authitemchild'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM istat_comuni
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM istat_comuni
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'istat_comuni'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM istat_province
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM istat_province
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'istat_province'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM istat_regioni
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM istat_regioni
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'istat_regioni'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_agent_contact
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_agent_contact
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_agent_contact'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_agent_customer
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_agent_customer
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_agent_customer'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_canali
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_canali
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_canali'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_cliente_settore_old
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_cliente_settore_old
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_cliente_settore_old'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_clienti
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_clienti
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_clienti'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_clienti_macroaree
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_clienti_macroaree
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_clienti_macroaree'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_clienti_settori
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_clienti_settori
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_clienti_settori'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_contact_list
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_contact_list
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_contact_list'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_contact_ruolo
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_contact_ruolo
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_contact_ruolo'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_contact_tifoseria
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_contact_tifoseria
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_contact_tifoseria'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_contacts
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_contacts
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_contacts'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_dipendenti
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_dipendenti
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_dipendenti'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_dipendenti_type
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_dipendenti_type
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_dipendenti_type'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_eta
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_eta
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_eta'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_event
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_event
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_event'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_event_agent
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_event_agent
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_event_agent'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_group
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_group
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_group'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_hierarchy
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_hierarchy
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_hierarchy'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_invitee
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_invitee
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_invitee'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_invitee_custom
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_invitee_custom
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_invitee_custom'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_lists
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_lists
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_lists'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_meccanica_macroarea
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_meccanica_macroarea
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_meccanica_macroarea'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_meccaniche
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_meccaniche
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_meccaniche'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_model_log
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_model_log
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_model_log'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_prodotti
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_prodotti
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_prodotti'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_ruoli
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_ruoli
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_ruoli'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_sesso
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_sesso
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_sesso'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_settori
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_settori
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_settori'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_siti
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_siti
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_siti'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_siti_macroarea
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_siti_macroarea
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_siti_macroarea'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_user_dipendente
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_user_dipendente
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_user_dipendente'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM m_user_group
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM m_user_group
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'm_user_group'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM notification
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM notification
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'notification'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM press_review_document
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM press_review_document
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'press_review_document'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM press_review_document_tag
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM press_review_document_tag
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'press_review_document_tag'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM press_review_source
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM press_review_source
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'press_review_source'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM press_review_tag
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM press_review_tag
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'press_review_tag'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM ps_file
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM ps_file
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'ps_file'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM ps_file_type
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM ps_file_type
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'ps_file_type'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM ps_progetti
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM ps_progetti
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'ps_progetti'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM ps_progetto_canale
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM ps_progetto_canale
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'ps_progetto_canale'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM ps_progetto_eta
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM ps_progetto_eta
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'ps_progetto_eta'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM ps_progetto_meccanica
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM ps_progetto_meccanica
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'ps_progetto_meccanica'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM ps_progetto_sesso
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM ps_progetto_sesso
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'ps_progetto_sesso'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM ps_progetto_sito
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM ps_progetto_sito
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'ps_progetto_sito'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM site_log
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM site_log
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'site_log'
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW COLUMNS FROM tbl_user
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SELECT COUNT(*) AS tot_rows FROM tbl_user
+--------------------
+2013-11-14 16:06:09;/sync_db/?;127.0.0.1
+SHOW TABLE STATUS FROM `mediamond` where Name = 'tbl_user'
+--------------------

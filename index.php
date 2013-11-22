@@ -186,19 +186,19 @@ else
 			<table>
 				<tr>
 					<td>HOST</td>
-					<td><input type="text" name="db1[host]" value="<? print $db1['host']; ?>"></td>
+					<td><input type="text" name="db1[host]" placeholder="<? print $db1['host']; ?>"></td>
 				</tr>
 				<tr>
 					<td>USERNAME</td>
-					<td><input type="text" name="db1[user]" value="<? print $db1['user']; ?>"></td>
+					<td><input type="text" name="db1[user]" placeholder="<? print $db1['user']; ?>"></td>
 				</tr>
 				<tr>
 					<td>PASSWORD</td>
-					<td><input type="password" name="db1[password]" value="<? print $db1['password']; ?>"></td>
+					<td><input type="password" name="db1[password]" placeholder="<? print $db1['password']; ?>"></td>
 				</tr>
 				<tr>
 					<td>DATABASE</td>
-					<td><input type="text" name="db1[name]" value="<? print $db1['name']; ?>"></td>
+					<td><input type="text" name="db1[name]" placeholder="<? print $db1['name']; ?>"></td>
 				</tr>
 			</table>
 		</td>
@@ -206,19 +206,19 @@ else
 			<table>
 				<tr>
 					<td>HOST</td>
-					<td><input type="text" name="db2[host]" value="<? print $db2['host']; ?>"></td>
+					<td><input type="text" name="db2[host]" placeholder="<? print $db2['host']; ?>"></td>
 				</tr>
 				<tr>
 					<td>USERNAME</td>
-					<td><input type="text" name="db2[user]" value="<? print $db2['user']; ?>"></td>
+					<td><input type="text" name="db2[user]" placeholder="<? print $db2['user']; ?>"></td>
 				</tr>
 				<tr>
 					<td>PASSWORD</td>
-					<td><input type="password" name="db2[password]" value="<? print $db2['password']; ?>"></td>
+					<td><input type="password" name="db2[password]" placeholder="<? print $db2['password']; ?>"></td>
 				</tr>
 				<tr>
 					<td>DATABASE</td>
-					<td><input type="text" name="db2[name]" value="<? print $db2['name']; ?>"></td>
+					<td><input type="text" name="db2[name]" placeholder="<? print $db2['name']; ?>"></td>
 				</tr>
 			</table>
 		</td>
